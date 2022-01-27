@@ -1,4 +1,3 @@
-# cmd-commands-for-your-windows
 To Open CMD, you need to search for CMD in the Search box or you can simply press Windows Key + R that will eventually open the Run window,
 
 where you need to type CMD and hit enter.
